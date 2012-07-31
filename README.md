@@ -1,0 +1,2 @@
+simple-mobile-detector
+======================
